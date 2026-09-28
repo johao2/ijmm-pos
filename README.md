@@ -4,11 +4,11 @@ Punto de venta, inventario y control de caja para Windows. Funciona sin internet
 
 ## Descarga
 
-**Versión 1.2.1** — Windows 10/11 (64 bits) — 85 MB
+**Versión 1.3.0** — Windows 10/11 (64 bits) — 85 MB
 
-[Descargar IJMM-POS-Setup-1.2.1.exe](https://github.com/johao2/ijmm-pos/raw/main/IJMM-POS-Setup-1.2.1.exe)
+[Descargar IJMM-POS-Setup-1.3.0.exe](https://github.com/johao2/ijmm-pos/raw/main/IJMM-POS-Setup-1.3.0.exe)
 
-SHA-256: `e65222615023f6bde47949f07d9e17de65d1b43ef618f0bb897e0951e7cc7de3`
+SHA-256: `cc64a3b4c43526c72d078923a2792b65ca0713cb30b8cd5cfb0688ad3ad6c4e4`
 
 ## Instalación
 
